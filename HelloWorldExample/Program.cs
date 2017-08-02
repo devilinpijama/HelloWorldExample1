@@ -14,7 +14,7 @@ namespace HelloWorldExample
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("helloworld 1");
+            
 
         }
     }
