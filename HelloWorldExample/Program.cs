@@ -8,9 +8,14 @@ namespace HelloWorldExample
 {
     class Program
     {
+        static void  method1()
+        {
+            Console.WriteLine("Helloworld2");
+        }
         static void Main(string[] args)
         {
             Console.WriteLine("helloworld 1");
+
         }
     }
 }
